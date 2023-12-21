@@ -1,4 +1,4 @@
-# Project Title: Python Implementation of the Smith-Waterman Algorithm for Bioinformatics
+# Python Implementation of the Smith-Waterman Algorithm for Bioinformatics
 
 ### Course: Algorithms for Bioinformatics
 ### Professor: Enrico Blanzieri
