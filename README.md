@@ -23,4 +23,4 @@ list of packages essential to the provided code:
 10. biopython
 
 ### How to use
-just run the code and various prompt to insert the paramiter and data will be asked.
+just run the code and various prompt to insert the paramiters and data will be asked.
