@@ -21,3 +21,6 @@ list of packages essential to the provided code:
 8. tabulate
 9. pandas
 10. biopython
+
+### How to use
+just run the code and various prompt to insert the paramiter and data will be asked.
